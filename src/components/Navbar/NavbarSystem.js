@@ -15,7 +15,7 @@ export default class NavbarSystem extends Component {
           <div className="max-w-screen-xl mx-auto flex items-center justify-between">
             <div className="text-xl font-bold m-6">
               <img
-                src={`${process.env.PUBLIC_URL}/images/pkblogoicon.PNG`}
+                src={`${process.env.PUBLIC_URL}/images/pkblogoicon.png`}
                 alt="Logo"
                 width={'110px'}
               />

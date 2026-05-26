@@ -47,7 +47,7 @@ export default class Navbar extends Component {
       <div className="fixed w-full flex flex-col md:flex-row bg-transparent z-20">
         <div className="w-full md:w-5/12 flex items-center justify-between bg-transparent shadow-md">
           <img
-            src={`${process.env.PUBLIC_URL}/images/pkblogoicon.PNG`}
+            src={`${process.env.PUBLIC_URL}/images/pkblogoicon.png`}
             alt="Logo"
             width="90px"
             className='m-2'
