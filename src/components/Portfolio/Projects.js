@@ -104,7 +104,7 @@ const Highlights = () => {
           </p>
 
           <a
-            href="https://wa.me/919544242148"
+            href="https://wa.me/919037542148"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -16,7 +16,7 @@ export default function Footer() {
   }, []);
 
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/919544242148", "_blank");
+    window.open("https://wa.me/919037542148", "_blank");
   };
 
   return (
@@ -26,7 +26,7 @@ export default function Footer() {
       {/* Top section */}
       <div className="w-full grid md:grid-cols-[1fr_auto_1fr] grid-cols-1 items-center gap-5 relative">
         {/* Logo */}
-        <a href="https://wa.me/919544242148" className="flex justify-center">
+        <a href="https://wa.me/919037542148" className="flex justify-center">
           <img
             src={`${process.env.PUBLIC_URL}/images/pkbfulllogonobg.png`}
             alt="Fiyor Travels Logo"
@@ -39,7 +39,7 @@ export default function Footer() {
           <p className="text-gray-400 font-semibold text-base mb-1">Contact Us :</p>
           <div className="flex items-center gap-2 md:pl-6">
             <img src="https://cdn-icons-png.flaticon.com/512/455/455705.png" alt="Phone" className="w-4 h-4" />
-            <span><b>+91 9544242148</b></span>
+            <span><b>+91 9037542148</b></span>
           </div>
           <div className="flex items-center gap-2 md:pl-6">
             <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" className="w-4 h-4" />
@@ -55,7 +55,7 @@ export default function Footer() {
         <ul className="flex md:flex-col flex-row items-center justify-center gap-5 mt-3">
           <li>
             <a
-              href="https://wa.me/919544242148"
+              href="https://wa.me/919037542148"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center w-12 h-12 rounded-full transition-transform hover:scale-110 relative"

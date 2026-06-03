@@ -35,7 +35,7 @@ export default class Services extends Component {
       },
     ];
 
-    const whatsappLink = "https://wa.me/919544242148";
+    const whatsappLink = "https://wa.me/919037542148";
 
     return (
       <section

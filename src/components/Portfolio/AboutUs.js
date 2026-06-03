@@ -88,7 +88,7 @@ export default class AboutUs extends Component {
               <div className="flex flex-wrap gap-4 mt-10">
 
                 <a
-                  href="https://wa.me/919544242148"
+                  href="https://wa.me/919037542148"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
